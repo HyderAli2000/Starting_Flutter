@@ -1,1 +1,21 @@
-Git Command
+Git Commands
+
+1) To download git use:
+	git-scm.com
+2) Install git in your computer
+3) Make folder and put your code files in it
+4) Right Click and Git Bash (Terminal)
+5) To make folder as repo use:
+	git init
+6) To check status of files use:
+	git status
+7) To track files use:
+	git add -A
+8) git config --global user.name ""
+9) git config --global user.email ""
+10) To store your files use:
+	git commit -m "Task Complete"
+11) To connect your local repo to remote use:
+	git remote add origin <link>
+12) To push your code to remote use:
+	git push -u origin master
